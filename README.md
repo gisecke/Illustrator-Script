@@ -16,6 +16,9 @@ Passos para instalar e configurar o Illustrator:
 - As teclas <kbd>Ctrl</kbd> + <kbd>↑</kbd> ou <kbd>Ctrl</kbd> + <kbd>↓</kbd> adicionam o diminuem 0.1 unidades ao valor vigente;
 - Infelizmente a parte de Scripts do Illustrator aceita décimos apenas utilizando o <kbd>.</kbd> não sendo possível utilizar a <kbd>,</kbd>;
 
+  ## Guide Layout
+![Guide Illustrator](./images/Gif_.gif)
+
 
 ### Licença
 Este projeto está licenciado sob a GNU General Public License v3.0.
