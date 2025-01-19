@@ -3,7 +3,7 @@
 
 ## Instalação
 Passos para instalar e configurar o Illustrator:
-1. Baixe o arquivo com o final .jsx
+1. Baixe o arquivo com o final dentro da pasta script (guide-layout.jsx)
 2. Vá para a pasta %ProgramFiles%/Adobe/Adobe Illustrator xxxx/Presets/pt_BR/Scripts
 3. Crie uma pasta com nome "User Scripts" ou outro nome que desejar
 4. Cole o arquivo na pasta criada
